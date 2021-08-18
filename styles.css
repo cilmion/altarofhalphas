@@ -31,6 +31,6 @@ svg {
   fill: none;
 }
 
-.iru-tiny-player {position: absolute !important; bottom: 5%; left:  35%; color: #fff; opacity: 0.8}
+.iru-tiny-player {position: absolute !important; bottom: 5%; left:  35% !important; color: #fff; opacity: 0.8}
 
 .iru-tiny-player .song-progress {background-color: rgba(255,0,0,0.15) !important;}
